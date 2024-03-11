@@ -1,0 +1,15 @@
+C:\Users\kristupas\Desktop\aes\obj\Debug\net6.0\aes.csproj.AssemblyReference.cache
+C:\Users\kristupas\Desktop\aes\obj\Debug\net6.0\aes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kristupas\Desktop\aes\obj\Debug\net6.0\aes.AssemblyInfoInputs.cache
+C:\Users\kristupas\Desktop\aes\obj\Debug\net6.0\aes.AssemblyInfo.cs
+C:\Users\kristupas\Desktop\aes\obj\Debug\net6.0\aes.csproj.CoreCompileInputs.cache
+C:\Users\kristupas\Desktop\aes\bin\Debug\net6.0\aes.exe
+C:\Users\kristupas\Desktop\aes\bin\Debug\net6.0\aes.deps.json
+C:\Users\kristupas\Desktop\aes\bin\Debug\net6.0\aes.runtimeconfig.json
+C:\Users\kristupas\Desktop\aes\bin\Debug\net6.0\aes.dll
+C:\Users\kristupas\Desktop\aes\bin\Debug\net6.0\aes.pdb
+C:\Users\kristupas\Desktop\aes\obj\Debug\net6.0\aes.dll
+C:\Users\kristupas\Desktop\aes\obj\Debug\net6.0\refint\aes.dll
+C:\Users\kristupas\Desktop\aes\obj\Debug\net6.0\aes.pdb
+C:\Users\kristupas\Desktop\aes\obj\Debug\net6.0\aes.genruntimeconfig.cache
+C:\Users\kristupas\Desktop\aes\obj\Debug\net6.0\ref\aes.dll
